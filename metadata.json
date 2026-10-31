@@ -1,0 +1,6 @@
+{
+  "name": "KOPI & RASA - Warung & Cafe POS 2026",
+  "description": "Aplikasi Kasir & Point of Sale (POS) modern untuk Warung & Cafe dengan foto menu realistis, keranjang belanja, diskon, pajak, simulasi pembayaran QRIS/Tunai, cetak struk thermal, dan dashboard penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
